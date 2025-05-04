@@ -1,0 +1,826 @@
+[
+  {
+    "familia": "Directores y gerentes",
+    "profesion": "Miembros del poder ejecutivo y de los cuerpos legislativos. directivos de la Administración Pública y organizaciones de interés social"
+  },
+
+  {
+    "familia": "Directores y gerentes",
+    "profesion": "Directores generales y presidentes ejecutivos"
+  },
+
+  {
+    "familia": "Directores y gerentes",
+    "profesion": "Directores de departamentos administrativos"
+  },
+
+  {
+    "familia": "Directores y gerentes",
+    "profesion": "Directores comerciales, de publicidad, relaciones públicas y de investigación y desarrollo"
+  },
+
+  {
+    "familia": "Directores y gerentes",
+    "profesion": "Directores de producción de explotaciones agropecuarias, forestales y pesqueras, y de industrias manufactureras, de minería, construcción y distribución"
+  },
+
+  {
+    "familia": "Directores y gerentes",
+    "profesion": "Directores de servicios de tecnologías de la información y las comunicaciones (TIC) y de empresas de servicios profesionales"
+  },
+
+  {
+    "familia": "Directores y gerentes",
+    "profesion": "Directores y gerentes de empresas de alojamiento"
+  },
+
+  {
+    "familia": "Directores y gerentes",
+    "profesion": "Directores y gerentes de empresas de restauración"
+  },
+
+  {
+    "familia": "Directores y gerentes",
+    "profesion": "Directores y gerentes de empresas de comercio al por mayor y al por menor"
+  },
+
+  {
+    "familia": "Directores y gerentes",
+    "profesion": "Directores y gerentes de otras empresas de servicios no clasificados bajo otros epígrafes"
+  },
+
+  {
+    "familia": "Técnicos y profesionales científicos e intelectuales",
+    "profesion": "Médicos"
+  },
+
+  {
+    "familia": "Técnicos y profesionales científicos e intelectuales",
+    "profesion": "Profesionales de enfermería y partería"
+  },
+
+  {
+    "familia": "Técnicos y profesionales científicos e intelectuales",
+    "profesion": "Veterinarios"
+  },
+
+  {
+    "familia": "Técnicos y profesionales científicos e intelectuales",
+    "profesion": "Farmacéuticos"
+  },
+
+  {
+    "familia": "Técnicos y profesionales científicos e intelectuales",
+    "profesion": "Otros profesionales de la salud"
+  },
+
+  {
+    "familia": "Profesionales de la enseñanza infantil, primaria, secundaria y postsecundaria",
+    "profesion": "Profesores de universidades y otra enseñanza superior (excepto formación profesional)"
+  },
+
+  {
+    "familia": "Profesionales de la enseñanza infantil, primaria, secundaria y postsecundaria",
+    "profesion": "Profesores de formación profesional (materias específicas)"
+  },
+
+  {
+    "familia": "Profesionales de la enseñanza infantil, primaria, secundaria y postsecundaria",
+    "profesion": "Profesores de enseñanza secundaria (excepto materias específicas de formación profesional)"
+  },
+
+  {
+    "familia": "Profesionales de la enseñanza infantil, primaria, secundaria y postsecundaria",
+    "profesion": "Profesores de enseñanza primaria"
+  },
+
+  {
+    "familia": "Profesionales de la enseñanza infantil, primaria, secundaria y postsecundaria",
+    "profesion": "Maestros y educadores de enseñanza infantil"
+  },
+
+  {
+    "familia": "Profesionales de la enseñanza infantil, primaria, secundaria y postsecundaria",
+    "profesion": "Profesores y técnicos de educación especial"
+  },
+
+  {
+    "familia": "Profesionales de la enseñanza infantil, primaria, secundaria y postsecundaria",
+    "profesion": "Otros profesores y profesionales de la enseñanza"
+  },
+
+  {
+    "familia": "Otros técnicos y profesionales científicos e intelectuales",
+    "profesion": "Físicos, químicos, matemáticos y afines"
+  },
+
+  {
+    "familia": "Otros técnicos y profesionales científicos e intelectuales",
+    "profesion": "Ingenieros (excepto ingenieros agrónomos, de montes, eléctricos, electrónicos y TIC)"
+  },
+
+  {
+    "familia": "Otros técnicos y profesionales científicos e intelectuales",
+    "profesion": "Ingenieros eléctricos, electrónicos y de telecomunicaciones"
+  },
+
+  {
+    "familia": "Otros técnicos y profesionales científicos e intelectuales",
+    "profesion": "Ingenieros técnicos (excepto agrícolas, forestales, eléctricos, electrónicos y TIC)"
+  },
+
+  {
+    "familia": "Otros técnicos y profesionales científicos e intelectuales",
+    "profesion": "Ingenieros técnicos en electricidad, electrónica y telecomunicaciones"
+  },
+
+  {
+    "familia": "Otros técnicos y profesionales científicos e intelectuales",
+    "profesion": "Arquitectos técnicos, topógrafos y diseñadores"
+  },
+
+  {
+    "familia": "Profesionales en derecho",
+    "profesion": "Jueces, magistrados, abogados y fiscales"
+  },
+
+  {
+    "familia": "Profesionales en derecho",
+    "profesion": "Otros profesionales del derecho"
+  },
+
+  {
+    "familia": "Especialistas en organización de la Administración Pública y de las empresas y en la comercialización",
+    "profesion": "Especialistas en finanzas"
+  },
+
+  {
+    "familia": "Especialistas en organización de la Administración Pública y de las empresas y en la comercialización",
+    "profesion": "Especialistas en organización y administración"
+  },
+
+  {
+    "familia": "Especialistas en organización de la Administración Pública y de las empresas y en la comercialización",
+    "profesion": "Técnicos de empresas y actividades turísticas"
+  },
+
+  {
+    "familia": "Especialistas en organización de la Administración Pública y de las empresas y en la comercialización",
+    "profesion": "Profesionales de ventas técnicas y médicas (excepto las TIC)"
+  },
+
+  {
+    "familia": "Especialistas en organización de la Administración Pública y de las empresas y en la comercialización",
+    "profesion": "Otros profesionales de las ventas, la comercialización, la publicidad y las relaciones públicas"
+  },
+
+  {
+    "familia": "Profesionales de las tecnologías de la información",
+    "profesion": "Analistas y diseñadores de software y multimedia"
+  },
+
+  {
+    "familia": "Profesionales de las tecnologías de la información",
+    "profesion": "Especialistas en bases de datos y en redes informáticas"
+  },
+
+  {
+    "familia": "Profesionales en ciencias sociales",
+    "profesion": "Economistas"
+  },
+
+  {
+    "familia": "Profesionales en ciencias sociales",
+    "profesion": "Sacerdotes de las distintas religiones"
+  },
+
+  {
+    "familia": "Profesionales de la cultura y el espectáculo",
+    "profesion": "Archivistas, bibliotecarios, conservadores y afines"
+  },
+
+  {
+    "familia": "Profesionales de la cultura y el espectáculo",
+    "profesion": "Escritores, periodistas y lingüistas"
+  },
+
+  {
+    "familia": "Profesionales de la cultura y el espectáculo",
+    "profesion": "Artistas creativos e interpretativos"
+  },
+
+  {
+    "familia": "Técnicos; profesionales de apoyo",
+    "profesion": "Delineantes y dibujantes técnicos"
+  },
+
+  {
+    "familia": "Técnicos; profesionales de apoyo",
+    "profesion": "Técnicos de las ciencias físicas, químicas, medioambientales y de las ingenierías"
+  },
+
+  {
+    "familia": "Técnicos; profesionales de apoyo",
+    "profesion": "Técnicos en control de procesos"
+  },
+
+  {
+    "familia": "Técnicos; profesionales de apoyo",
+    "profesion": "Técnicos de las ciencias naturales y profesionales auxiliares afines"
+  },
+
+  {
+    "familia": "Técnicos; profesionales de apoyo",
+    "profesion": "Profesionales en navegación marítima y aeronáutica"
+  },
+
+  {
+    "familia": "Técnicos; profesionales de apoyo",
+    "profesion": "Técnicos de control de calidad de las ciencias físicas, químicas y de las ingenierías"
+  },
+
+  {
+    "familia": "Supervisores en ingeniería de minas, de industrias manufactureras y de la construcción",
+    "profesion": "Supervisores en ingeniería de minas, de industrias manufactureras y de la construcción"
+  },
+
+  {
+    "familia": "Técnicos sanitarios y profesionales de las terapias alternativas",
+    "profesion": "Técnicos sanitarios de laboratorio, pruebas diagnósticas y prótesis"
+  },
+
+  {
+    "familia": "Técnicos sanitarios y profesionales de las terapias alternativas",
+    "profesion": "Otros técnicos sanitarios"
+  },
+
+  {
+    "familia": "Técnicos sanitarios y profesionales de las terapias alternativas",
+    "profesion": "Profesionales de las terapias alternativas"
+  },
+
+  {
+    "familia": "Profesionales de apoyo en finanzas y matemáticas",
+    "profesion": "Profesionales de apoyo en finanzas y matemáticas"
+  },
+
+  {
+    "familia": "Representantes, agentes comerciales y afines",
+    "profesion": "Agentes y representantes comerciales"
+  },
+
+  {
+    "familia": "Representantes, agentes comerciales y afines",
+    "profesion": "Otros agentes comerciales"
+  },
+
+  {
+    "familia": "Representantes, agentes comerciales y afines",
+    "profesion": "Agentes inmobiliarios y otros agentes"
+  },
+
+  {
+    "familia": "Profesionales de apoyo a la gestión administrativa; técnicos de las fuerzas y cuerpos de seguridad",
+    "profesion": "Asistentes administrativos y especializados"
+  },
+
+  {
+    "familia": "Profesionales de apoyo a la gestión administrativa; técnicos de las fuerzas y cuerpos de seguridad",
+    "profesion": "Agentes de aduanas, tributos y afines que trabajan en tareas propias de la Administración Pública"
+  },
+
+  {
+    "familia": "Profesionales de apoyo a la gestión administrativa; técnicos de las fuerzas y cuerpos de seguridad",
+    "profesion": "Técnicos de las fuerzas y cuerpos de seguridad"
+  },
+
+  {
+    "familia": "Profesionales de apoyo de servicios jurídicos, sociales, culturales, deportivos y afines",
+    "profesion": "Profesionales de apoyo de servicios jurídicos y sociales"
+  },
+
+  {
+    "familia": "Profesionales de apoyo de servicios jurídicos, sociales, culturales, deportivos y afines",
+    "profesion": "Deportistas, entrenadores, instructores de actividades deportivas; monitores de actividades recreativas"
+  },
+
+  {
+    "familia": "Profesionales de apoyo de servicios jurídicos, sociales, culturales, deportivos y afines",
+    "profesion": "Técnicos y profesionales de apoyo de actividades culturales, artísticas y culinarias"
+  },
+
+  {
+    "familia": "Técnicos de las tecnologías de la información y las comunicaciones (TIC)",
+    "profesion": "Técnicos en operaciones de tecnologías de la información y asistencia al usuario"
+  },
+
+  {
+    "familia": "Técnicos de las tecnologías de la información y las comunicaciones (TIC)",
+    "profesion": "Programadores informáticos"
+  },
+
+  {
+    "familia": "Técnicos de las tecnologías de la información y las comunicaciones (TIC)",
+    "profesion": "Técnicos en grabación audiovisual, radiodifusión y telecomunicaciones"
+  },
+
+  {
+    "familia": "Empleados contables, administrativos y otros empleados de oficina",
+    "profesion": "Empleados contables y financieros"
+  },
+
+  {
+    "familia": "Empleados contables, administrativos y otros empleados de oficina",
+    "profesion": "Empleados de registro de materiales, de servicios de apoyo a la producción y al transporte"
+  },
+
+  {
+    "familia": "Empleados contables, administrativos y otros empleados de oficina",
+    "profesion": "Empleados de registro de materiales, de servicios de apoyo a la producción y al transporte"
+  },
+
+  {
+    "familia": "Empleados de bibliotecas, servicios de correos y afines",
+    "profesion": "Empleados de bibliotecas y archivos"
+  },
+
+  {
+    "familia": "Empleados de bibliotecas, servicios de correos y afines",
+    "profesion": "Empleados de servicios de correos, codificadores, correctores y servicios de personal"
+  },
+
+  {
+    "familia": "Otros empleados administrativos sin tareas de atención al público",
+    "profesion": "Otros empleados administrativos sin tareas de atención al público"
+  },
+
+  {
+    "familia": "Empleados de agencias de viajes, recepcionistas y telefonistas; empleados de ventanilla y afines (excepto taquilleros)",
+    "profesion": "Empleados de información y recepcionistas (excepto de hoteles)"
+  },
+
+  {
+    "familia": "Empleados de agencias de viajes, recepcionistas y telefonistas; empleados de ventanilla y afines (excepto taquilleros)",
+    "profesion": "Empleados de agencias de viajes, recepcionistas de hoteles y telefonistas"
+  },
+
+  {
+    "familia": "Empleados de agencias de viajes, recepcionistas y telefonistas; empleados de ventanilla y afines (excepto taquilleros)",
+    "profesion": "Agentes de encuestas"
+  },
+
+  {
+    "familia": "Empleados de agencias de viajes, recepcionistas y telefonistas; empleados de ventanilla y afines (excepto taquilleros)",
+    "profesion": "Empleados de ventanilla y afines (excepto taquilleros)"
+  },
+
+  {
+    "familia": "Empleados administrativos con tareas de atención al público no clasificados bajo otros epígrafes",
+    "profesion": "Empleados administrativos con tareas de atención al público no clasificados bajo otros epígrafes"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios de restauración y comercio",
+    "profesion": "Camareros y cocineros propietarios"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios de restauración y comercio",
+    "profesion": "Cocineros asalariados"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios de restauración y comercio",
+    "profesion": "Camareros asalariados"
+  },
+
+  {
+    "familia": "Dependientes en tiendas y almacenes",
+    "profesion": "Jefes de sección de tiendas y almacenes"
+  },
+
+  {
+    "familia": "Dependientes en tiendas y almacenes",
+    "profesion": "Vendedores en tiendas y almacenes"
+  },
+
+  {
+    "familia": "Comerciantes propietarios de tiendas",
+    "profesion": "Comerciantes propietarios de tiendas"
+  },
+
+  {
+    "familia": "Vendedores (excepto en tiendas y almacenes)",
+    "profesion": "Vendedores en quioscos o en mercadillos"
+  },
+
+  {
+    "familia": "Vendedores (excepto en tiendas y almacenes)",
+    "profesion": "Operadores de telemarketing"
+  },
+
+  {
+    "familia": "Vendedores (excepto en tiendas y almacenes)",
+    "profesion": "Otros vendedores"
+  },
+
+  {
+    "familia": "Cajeros y taquilleros (excepto bancos)",
+    "profesion": "Cajeros y taquilleros (excepto bancos)"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "profesion": "Auxiliares de enfermería"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "profesion": "Técnicos auxiliares de farmacia y emergencias sanitarias y otros trabajadores de los cuidados a las personas en servicios de salud"
+  },
+
+  {
+    "familia": "Otros trabajadores de los cuidados a las personas",
+    "profesion": "Trabajadores de los cuidados personales a domicilio (excepto cuidadores de niños)"
+  },
+
+  {
+    "familia": "Otros trabajadores de los cuidados a las personas",
+    "profesion": "Cuidadores de niños"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios personales",
+    "profesion": "Peluqueros y especialistas en tratamientos de estética, bienestar y afines"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios personales",
+    "profesion": "Trabajadores que atienden a viajeros, guías turísticos y afines"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios personales",
+    "profesion": "Supervisores de mantenimiento y limpieza de edificios, conserjes y mayordomos domésticos"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios personales",
+    "profesion": "Trabajadores propietarios de pequeños alojamientos"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios personales",
+    "profesion": "Otros trabajadores de servicios personales"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios de protección y seguridad",
+    "profesion": "Guardias civiles"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios de protección y seguridad",
+    "profesion": "Policías"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios de protección y seguridad",
+    "profesion": "Bomberos"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios de protección y seguridad",
+    "profesion": "Personal de seguridad privado"
+  },
+
+  {
+    "familia": "Trabajadores de los servicios de protección y seguridad",
+    "profesion": "Otros trabajadores de los servicios de protección y seguridad"
+  },
+
+  {
+    "familia": "Trabajadores cualificados en actividades agrícolas",
+    "profesion": "Trabajadores cualificados en actividades agrícolas (excepto en huertas, invernaderos, viveros y jardines)"
+  },
+
+  {
+    "familia": "Trabajadores cualificados en actividades agrícolas",
+    "profesion": "Trabajadores cualificados en huertas, invernaderos, viveros y jardines"
+  },
+
+  {
+    "familia": "Trabajadores cualificados en actividades ganaderas, (incluidas avícolas, apícolas y similares)",
+    "profesion": "Trabajadores cualificados en actividades ganaderas (incluidas avícolas, apícolas y similares)"
+  },
+
+  {
+    "familia": "Trabajadores cualificados en actividades agropecuarias mixtas",
+    "profesion": "Trabajadores cualificados en actividades agropecuarias mixtas"
+  },
+
+  {
+    "familia": "Trabajadores cualificados en actividades forestales, pesqueras y cinegéticas",
+    "profesion": "Trabajadores cualificados en actividades forestales y del medio natural"
+  },
+
+  {
+    "familia": "Trabajadores cualificados en actividades forestales, pesqueras y cinegéticas",
+    "profesion": "Trabajadores cualificados en actividades pesqueras y acuicultura"
+  },
+
+  {
+    "familia": "Trabajadores cualificados en actividades forestales, pesqueras y cinegéticas",
+    "profesion": "Trabajadores cualificados en actividades cinegéticas"
+  },
+
+  {
+    "familia": "Trabajadores en obras estructurales de construcción y afines",
+    "profesion": "Trabajadores en hormigón, encofradores, ferrallistas y afines"
+  },
+
+  {
+    "familia": "Trabajadores en obras estructurales de construcción y afines",
+    "profesion": "Albañiles, canteros, tronzadores, labrantes y grabadores de piedras"
+  },
+
+  {
+    "familia": "Trabajadores en obras estructurales de construcción y afines",
+    "profesion": "Carpinteros (excepto ebanistas y montadores de estructuras metálicas)"
+  },
+
+  {
+    "familia": "Trabajadores en obras estructurales de construcción y afines",
+    "profesion": "Otros trabajadores de las obras estructurales de construcción"
+  },
+
+  {
+    "familia": "Trabajadores de acabado de construcciones e instalaciones (excepto electricistas), pintores y afines",
+    "profesion": "Escayolistas y aplicadores de revestimientos de pasta y mortero"
+  },
+
+  {
+    "familia": "Trabajadores de acabado de construcciones e instalaciones (excepto electricistas), pintores y afines",
+    "profesion": "Fontaneros e instaladores de tuberías"
+  },
+
+  {
+    "familia": "Trabajadores de acabado de construcciones e instalaciones (excepto electricistas), pintores y afines",
+    "profesion": "Pintores, empapeladores y afines"
+  },
+
+  {
+    "familia": "Trabajadores de acabado de construcciones e instalaciones (excepto electricistas), pintores y afines",
+    "profesion": "Soladores, colocadores de parquet y afines"
+  },
+
+  {
+    "familia": "Trabajadores de acabado de construcciones e instalaciones (excepto electricistas), pintores y afines",
+    "profesion": "Mecánicos-instaladores de refrigeración y climatización"
+  },
+
+  {
+    "familia": "Trabajadores de acabado de construcciones e instalaciones (excepto electricistas), pintores y afines",
+    "profesion": "Otros trabajadores de acabado en la construcción, instalaciones (excepto electricistas) y afines"
+  },
+
+  {
+    "familia": "Soldadores, chapistas, montadores de estructuras metálicas, herreros, elaboradores de herramientas y afines",
+    "profesion": "Moldeadores, soldadores, chapistas, montadores de estructuras metálicas y trabajadores afines"
+  },
+
+  {
+    "familia": "Soldadores, chapistas, montadores de estructuras metálicas, herreros, elaboradores de herramientas y afines",
+    "profesion": "Herreros y trabajadores de la fabricación de herramientas y afines"
+  },
+
+  {
+    "familia": "Mecánicos y ajustadores de maquinaria",
+    "profesion": "Mecánicos y ajustadores de maquinaria"
+  },
+
+  {
+    "familia": "Trabajadores especializados en electricidad y electrotecnología",
+    "profesion": "Electricistas de la construcción y afines"
+  },
+
+  {
+    "familia": "Trabajadores especializados en electricidad y electrotecnología",
+    "profesion": "Otros instaladores y reparadores de equipos eléctricos"
+  },
+
+  {
+    "familia": "Trabajadores especializados en electricidad y electrotecnología",
+    "profesion": "Instaladores y reparadores de equipos electrónicos y de telecomunicaciones"
+  },
+
+  {
+    "familia": "Mecánicos de precisión en metales, ceramistas, vidrieros, artesanos y trabajadores de artes gráficas",
+    "profesion": "Mecánicos de precisión en metales, ceramistas, vidrieros y artesanos"
+  },
+
+  {
+    "familia": "Mecánicos de precisión en metales, ceramistas, vidrieros, artesanos y trabajadores de artes gráficas",
+    "profesion": "Oficiales y operarios de las artes gráficas"
+  },
+
+  {
+    "familia": "Trabajadores de la industria de la alimentación, bebidas y tabaco",
+    "profesion": "Trabajadores de la industria de la alimentación, bebidas y tabaco"
+  },
+
+  {
+    "familia": "Trabajadores de la madera, textil, confección, piel, cuero, calzado y otros operarios en oficios",
+    "profesion": "Trabajadores que tratan la madera y afines"
+  },
+
+  {
+    "familia": "Trabajadores de la madera, textil, confección, piel, cuero, calzado y otros operarios en oficios",
+    "profesion": "Ebanistas y trabajadores afines"
+  },
+
+  {
+    "familia": "Trabajadores de la madera, textil, confección, piel, cuero, calzado y otros operarios en oficios",
+    "profesion": "Trabajadores del textil, confección, piel, cuero y calzado"
+  },
+
+  {
+    "familia": "Trabajadores de la madera, textil, confección, piel, cuero, calzado y otros operarios en oficios",
+    "profesion": "Pegadores, buceadores, probadores de productos y otros operarios y artesanos diversos"
+  },
+
+  {
+    "familia": "Operadores de instalaciones y maquinaria fijas",
+    "profesion": "Operadores en instalaciones de la extracción y explotación de minerales"
+  },
+
+  {
+    "familia": "Operadores de instalaciones y maquinaria fijas",
+    "profesion": "Operadores en instalaciones para el tratamiento de metales"
+  },
+
+  {
+    "familia": "Operadores de instalaciones y maquinaria fijas",
+    "profesion": "Operadores en instalaciones para el tratamiento y transformación de la madera, la fabricación de papel, productos de papel y caucho o materias plásticas"
+  },
+
+  {
+    "familia": "Operadores de instalaciones y maquinaria fijas",
+    "profesion": "Operadores de máquinas para fabricar productos textiles y artículos de piel y de cuero"
+  },
+
+  {
+    "familia": "Operadores de instalaciones y maquinaria fijas",
+    "profesion": "Operadores de máquinas para elaborar productos alimenticios, bebidas y tabaco"
+  },
+
+  {
+    "familia": "Operadores de instalaciones y maquinaria fijas",
+    "profesion": "Operadores de máquinas de lavandería y tintorería"
+  },
+
+  {
+    "familia": "Operadores de instalaciones y maquinaria fijas",
+    "profesion": "Otros operadores de instalaciones y maquinaria fijas"
+  },
+
+  {
+    "familia": "Montadores y ensambladores en fábricas",
+    "profesion": "Montadores y ensambladores en fábricas"
+  },
+
+  {
+    "familia": "Maquinistas de locomotoras, operadores de maquinaria agrícola y de equipos pesados móviles, y marineros",
+    "profesion": "Maquinistas de locomotoras y afines"
+  },
+
+  {
+    "familia": "Maquinistas de locomotoras, operadores de maquinaria agrícola y de equipos pesados móviles, y marineros",
+    "profesion": "Operadores de maquinaria agrícola y forestal móvil"
+  },
+
+  {
+    "familia": "Maquinistas de locomotoras, operadores de maquinaria agrícola y de equipos pesados móviles, y marineros",
+    "profesion": "Operadores de otras máquinas móviles"
+  },
+
+  {
+    "familia": "Maquinistas de locomotoras, operadores de maquinaria agrícola y de equipos pesados móviles, y marineros",
+    "profesion": "Marineros de puente, marineros de máquinas y afines"
+  },
+
+  {
+    "familia": "Conductores de vehículos para el transporte urbano o por carretera",
+    "profesion": "Conductores de automóviles, taxis y furgonetas"
+  },
+
+  {
+    "familia": "Conductores de vehículos para el transporte urbano o por carretera",
+    "profesion": "Conductores de autobuses y tranvías"
+  },
+
+  {
+    "familia": "Conductores de vehículos para el transporte urbano o por carretera",
+    "profesion": "Conductores de camiones"
+  },
+
+  {
+    "familia": "Empleados domésticos",
+    "profesion": "Empleados domésticos"
+  },
+
+  {
+    "familia": "Otro personal de limpieza",
+    "profesion": "Personal de limpieza de oficinas, hoteles y otros establecimientos similares"
+  },
+
+  {
+    "familia": "Otro personal de limpieza",
+    "profesion": "Limpiadores de vehículos, ventanas y personal de limpieza a mano"
+  },
+
+  {
+    "familia": "Ayudantes de preparación de alimentos",
+    "profesion": "Ayudantes de cocina"
+  },
+
+  {
+    "familia": "Ayudantes de preparación de alimentos",
+    "profesion": "Preparadores de comidas rápidas"
+  },
+
+  {
+    "familia": "Recogedores de residuos urbanos, vendedores callejeros y otras ocupaciones elementales en servicios",
+    "profesion": "Vendedores callejeros"
+  },
+
+  {
+    "familia": "Recogedores de residuos urbanos, vendedores callejeros y otras ocupaciones elementales en servicios",
+    "profesion": "Repartidores de publicidad, limpiabotas y otros trabajadores de oficios callejeros"
+  },
+
+  {
+    "familia": "Recogedores de residuos urbanos, vendedores callejeros y otras ocupaciones elementales en servicios",
+    "profesion": "Ordenanzas, mozos de equipaje, repartidores a pie y afines"
+  },
+
+  {
+    "familia": "Recogedores de residuos urbanos, vendedores callejeros y otras ocupaciones elementales en servicios",
+    "profesion": "Recogedores de residuos, clasificadores de desechos, barrenderos y afines"
+  },
+
+  {
+    "familia": "Recogedores de residuos urbanos, vendedores callejeros y otras ocupaciones elementales en servicios",
+    "profesion": "Otras ocupaciones elementales"
+  },
+
+  {
+    "familia": "Peones agrarios, forestales y de la pesca",
+    "profesion": "Peones agrícolas"
+  },
+
+  {
+    "familia": "Peones agrarios, forestales y de la pesca",
+    "profesion": "Peones ganaderos"
+  },
+
+  {
+    "familia": "Peones agrarios, forestales y de la pesca",
+    "profesion": "Peones agropecuarios"
+  },
+
+  {
+    "familia": "Peones agrarios, forestales y de la pesca",
+    "profesion": "Peones de la pesca, la acuicultura, forestales y de la caza"
+  },
+
+  {
+    "familia": "Peones de la construcción y de la minería",
+    "profesion": "Peones de la construcción y de la minería"
+  },
+
+  {
+    "familia": "Peones de las industrias manufactureras",
+    "profesion": "Peones de las industrias manufactureras"
+  },
+
+  {
+    "familia": "Peones del transporte, descargadores y reponedores",
+    "profesion": "Peones del transporte, descargadores y afines"
+  },
+
+  {
+    "familia": "Peones del transporte, descargadores y reponedores",
+    "profesion": "Reponedores"
+  },
+
+  {
+    "familia": "Ocupaciones militares",
+    "profesion": "Oficiales y suboficiales de las fuerzas armadas"
+  },
+
+  {
+    "familia": "Ocupaciones militares",
+    "profesion": "Tropa y marinería de las fuerzas armadas"
+  }
+]
