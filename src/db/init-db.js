@@ -581,3 +581,4 @@ CREATE TABLE inbox_messages (
 console.log("Base de datos creada correctamente");
 
 await db.end();
+
